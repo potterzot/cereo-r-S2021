@@ -1,6 +1,6 @@
 # cereo-r-S2021
 
-Processing and analysis of bike data.
+
 
 Notes for the CEREO / CIRC Workshop Spring 2021.
 
