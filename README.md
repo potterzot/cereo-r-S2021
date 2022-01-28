@@ -1,9 +1,5 @@
 # cereo-r-S2021
 
+This repository was created as part of a live-coding sessions on using Git and the tidyverse for a reproducible workflow. The video of the session is available at https://youtu.be/tZ9c8xS-jzI.
 
-Notes for the CEREO / CIRC Workshop Spring 2021.
-
-My Personal Goals for this Workshop:
-
-1. Seamlessly use git to update during a workshop
-2. Create some interesting figures looking at the bike data and relation to climate
+The lesson is based on Software Carpentry lessons, particularly the [git](https://swcarpentry.github.io/git-novice/) and [tidyverse](https://datacarpentry.org/genomics-r-intro/05-dplyr/index.html) lessons.
